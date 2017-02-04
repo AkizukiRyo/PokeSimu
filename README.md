@@ -1,2 +1,7 @@
-# PokeSimu
-READMEの書き方がわからない。。。
+﻿# PokeSimu
+
+Overview
+
+## Description
+
+ポケモンバトルをシミュレーションする
