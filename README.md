@@ -1,7 +1,5 @@
 ﻿# PokeSimu
 
-Overview
-
 ## Description
 
 ポケモンバトルをシミュレーションする
